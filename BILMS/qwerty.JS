@@ -1,0 +1,1 @@
+TweenMax.staggerTo(".snake span", 0.75, {y:30, yoyo:true, repeat:-1, ease: Sine.easeInOut}, 0.2);
